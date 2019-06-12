@@ -1,6 +1,5 @@
 # member-initialization
 
-모두가 100% 원하는 곳으로 취업에 성공하는 바로 그런 우리들!
 
 ## 우리들 github
 
@@ -12,11 +11,11 @@
 |  |[지선](https://github.com/LJSsun)|[소현](https://github.com/So-Is-Cow)|[민지](https://github.com/youminji)||현민||
 |강석|  |[기찬](https://github.com/allowme2)|  ||지윤|규식|
 
-
+<--1
 * 최초시작 25명
   * 취업성공 - 상현(3주차) 
   * 중간포기 - 1명(2주차)
 * 현재 총원 23명
-
+!-->
 # Target 
  
