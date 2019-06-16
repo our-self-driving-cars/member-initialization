@@ -3,7 +3,7 @@
 
 ## 우리들 github
 
-|쌤|  |  |  ||  |문|
+|샘|  |  |  ||  |문|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |[재필](https://github.com/seomyunfeel)|[이경](https://github.com/leekyung91)|[창호](https://github.com/changhonam)||[윤수](https://github.com/susu210)|[한빈](https://github.com/Mombin)|
 |우성|[민준](https://github.com/KimMinJoon)|[남우](https://github.com/NamWoo)|[봉준](https://github.com/iambongjun)||[용준](https://github.com/chrno0621)||
